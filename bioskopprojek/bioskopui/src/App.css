@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #3d0e1e;
+}
+
+.kartu {
+  border-radius: 10px;
+  overflow: hidden;
+  /* width: 100%; */
+
+}
+
+.gambar {
+  transition: 700ms;
+}
+
+.gambar:hover {
+  transform: scale(1.1);
+  border-radius: 10px;
+}
+
+.gambaar1 {
+  border-radius: 10px;
+  overflow: hidden;
+}
